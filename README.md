@@ -1,4 +1,4 @@
-<h1>Hi, Welcome to my CS499 Capstone ePortfolio</h1>
+<h1>Welcome to Edward Garcia's CS499 Capstone ePortfolio</h1>
 
 <h2>👨‍💻 Artifacts & Enhancements:</h2>
 
