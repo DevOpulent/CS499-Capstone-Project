@@ -1,0 +1,174 @@
+2024-11-13 21:51:54,660 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 21:53:33,930 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 21:54:06,110 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 21:56:47,062 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 22:00:08,842 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 22:00:08,918 - root - INFO - Connected to MongoDB collection: animals
+2024-11-13 22:00:08,918 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:10,250 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:19,667 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:28,553 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:43,171 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:01:00,387 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:01:18,546 - root - INFO - Read operation with criteria: {}
+2024-11-14 00:36:01,241 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:15,730 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 13:24:15,855 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 13:24:15,855 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:17,286 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:24,598 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:51,085 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:25:57,113 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:03,868 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:07,981 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:12,459 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:20,185 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:23,812 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:30,122 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:34,898 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:34,989 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:40,367 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:26:50,697 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:26:55,911 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:26:56,193 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:27:39,097 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:27:53,857 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:27:57,050 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:27:58,756 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:28:19,751 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:26,737 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:29,751 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:30,434 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:34,824 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:34,910 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:40,572 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:28:53,188 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:35:57,918 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:35:58,807 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:36:00,105 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:36:13,420 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:36:17,873 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:48:53,185 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:50:44,029 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:50:50,100 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:50:50,868 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:50:51,789 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:50:55,873 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:50:56,700 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:51:21,119 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:51:25,710 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 15:04:02,680 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 16:48:03,729 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 16:48:04,030 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 16:48:04,030 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:48:07,178 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:48:16,121 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:48:52,450 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:03,536 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:14,786 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:30,804 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:47,116 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 16:49:51,934 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 16:49:53,863 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 16:57:31,503 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:14:24,961 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:14:33,887 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:15:34,616 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 17:15:34,901 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 17:15:34,902 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:15:37,641 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:15:45,395 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:16:02,644 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:19:30,447 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:33,639 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 17:21:33,953 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 17:21:33,954 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:37,009 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:37,877 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:44,709 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:22:04,706 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:22:08,839 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:22:28,537 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:23:30,938 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:04,435 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 17:58:04,538 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 17:58:04,538 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:05,970 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:14,788 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:38,024 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:46,440 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:59:03,205 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:00:01,783 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:08:40,498 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:13:03,826 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:35,788 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:44,386 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:57,436 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:57,574 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:16:34,751 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:18:10,932 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:18:19,945 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:21:35,037 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:50:03,556 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:22,981 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:44,320 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:44,579 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:53,571 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 19:00:55,861 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 19:00:57,318 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 19:01:00,813 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 19:01:01,962 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:53:35,960 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 23:53:36,037 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 23:53:36,038 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:53:37,474 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:53:46,052 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:54:11,056 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 23:54:12,551 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 23:54:13,859 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 23:54:15,120 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 23:54:49,179 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 23:54:53,438 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:55:07,400 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:55:10,255 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:54:28,995 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 16:54:28,996 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:54:30,456 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:56:42,670 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 16:56:42,672 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:56:44,136 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:56:51,727 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:08:09,198 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 17:08:09,198 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:08:10,492 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:08:17,384 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:09:09,333 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:17,173 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 17:15:17,173 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:18,487 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:27,614 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:38,762 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:16:12,359 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:16:12,704 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:22:37,993 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 17:22:37,994 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:22:39,331 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:22:46,994 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:25:00,755 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:23,006 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 15:44:23,007 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:24,772 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:29,477 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 15:44:29,478 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:32,299 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:50:54,489 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 15:50:54,490 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:50:56,169 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:51:05,296 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:31:03,072 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 17:31:03,073 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:32:03,756 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 17:32:03,757 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:32:05,134 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:32:11,170 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:44:23,450 - root - INFO - Read operation with criteria: {}
