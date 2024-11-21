@@ -9,18 +9,8 @@
 - **Enhancement 3: Databases**
 
 ## 📺 My Code Review Video
-<a href="https://youtu.be/aUsckxiYfn8" target="_blank" style="text-decoration: none;">
-    <button style="
-        background-color: #ff0000; /* YouTube red */
-        color: white; 
-        padding: 10px 20px; 
-        border: none; 
-        border-radius: 5px; 
-        cursor: pointer; 
-        font-size: 16px;
-    ">
-        Watch My Code Review Video
-    </button>
+<a href="https://youtu.be/aUsckxiYfn8" target="_blank">
+  <img src="https://img.youtube.com/vi/aUsckxiYfn8/0.jpg" alt="Code Review Video" width="560">
 </a>
 
 
