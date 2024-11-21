@@ -5,6 +5,8 @@
 ## 👨‍💻 Artifacts & Enhancements:
 - **Artifacts**
 - **Enhancement 1: Software Engineering and Design**
+
+  <a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 1 files.</a>
 - **Enhancement 2: Data Structures and Algorithms**
 - **Enhancement 3: Databases**
 
