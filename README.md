@@ -5,6 +5,12 @@
 ## 👨‍💻 Artifacts & Enhancements:
 - **Artifacts**
 - **Enhancement 1: Software Engineering and Design**
+<div style="position: relative; text-align: center; color: white;">
+  <img src="path_to_image/image.png" alt="Background" style="width: 100%;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    Enhancement 1: Software Design & Engineering
+  </h1>
+</div>
 
   <a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 1 files.</a>
 - **Enhancement 2: Data Structures and Algorithms**
