@@ -1,13 +1,15 @@
-<h1>Welcome to Edward Garcia's CS499 Capstone ePortfolio</h1>
+# Welcome to Edward Garcia's CS499 Capstone ePortfolio
 
-<h2>👨‍💻 Artifacts & Enhancements:</h2>
+[![Visit My ePortfolio](https://img.shields.io/badge/ePortfolio-Visit-blue)](https://your-eportfolio-link.com)
 
-- <b>Artifacts</b>
-- <b>Enhancement 1: Software Engineering and Design</b>
-- <b>Enhancement 2: Data Structures and Algorithms</b>
-- <b>Enhancement 3: Databases</b>
+## 👨‍💻 Artifacts & Enhancements:
+- **Artifacts**
+- **Enhancement 1: Software Engineering and Design**
+- **Enhancement 2: Data Structures and Algorithms**
+- **Enhancement 3: Databases**
 
-<h2>📺 My Code Review Video</h2>
+## 📺 My Code Review Video
+
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
