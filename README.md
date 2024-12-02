@@ -2,24 +2,41 @@
 
 [![Visit My ePortfolio](https://img.shields.io/badge/ePortfolio-Visit-blue)](https://devopulent.github.io/CS499-ePortfolio/)
 
+## Professional Self-Assessment
+
+## 📺 My Code Review Video
+<a href="https://youtu.be/aUsckxiYfn8" target="_blank">
+  <img src="https://img.youtube.com/vi/aUsckxiYfn8/0.jpg" alt="Code Review Video" width="560">
+</a>
+
 ## 👨‍💻 Artifacts & Enhancements:
-- **Artifacts**
-- **Enhancement 1: Software Engineering and Design**
+Artifact: CS340 Animal Shelter Application
+- **Enhancement 1: Software Design & Engineering**
+- **Enhancement 2: Data Structures and Algorithms**
+- **Enhancement 3: Databases**
 <div style="position: relative; text-align: center; color: white;">
-  <img src="path_to_image/image.png" alt="Background" style="width: 100%;">
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     Enhancement 1: Software Design & Engineering
   </h1>
 </div>
 
   <a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 1 files.</a>
-- **Enhancement 2: Data Structures and Algorithms**
-- **Enhancement 3: Databases**
 
-## 📺 My Code Review Video
-<a href="https://youtu.be/aUsckxiYfn8" target="_blank">
-  <img src="https://img.youtube.com/vi/aUsckxiYfn8/0.jpg" alt="Code Review Video" width="560">
-</a>
+  <div style="position: relative; text-align: center; color: white;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    Enhancement 2: Data Structures and Algorithms
+  </h1>
+</div>
+
+<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 1 files.</a>
+
+<div style="position: relative; text-align: center; color: white;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    Enhancement 3: Database
+  </h1>
+</div>
+
+<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 1 files.</a>
 
 
 <!--
