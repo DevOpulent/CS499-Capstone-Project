@@ -1,0 +1,638 @@
+2024-11-14 13:57:13,917 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 13:57:23,975 - root - ERROR - Error occurred during creation: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+2024-11-14 13:57:33,976 - root - ERROR - Error occurred during delete operation: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+2024-11-14 13:57:33,980 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 13:57:44,014 - root - ERROR - Error occurred during read operation: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+2024-11-14 13:57:54,009 - root - ERROR - Error occurred during update operation: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+2024-11-14 14:01:02,893 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 14:01:02,994 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:01:02,999 - root - INFO - Delete operation: deleted 0 documents
+2024-11-14 14:01:03,001 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 14:01:03,010 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 14:07:32,469 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 14:07:32,579 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:32,597 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:32,606 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:32,621 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:32,630 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 14:07:32,646 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:32,646 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 14:07:32,667 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:32,678 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 14:07:44,700 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 14:07:44,798 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:44,803 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:44,805 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:44,811 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:44,816 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 14:07:44,821 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:44,821 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 14:07:44,828 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:07:44,830 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 14:29:41,961 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 14:29:42,078 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:29:42,083 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:29:42,084 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:29:42,088 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:29:42,090 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 14:29:42,094 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:29:42,094 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 14:29:42,100 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:29:42,102 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 14:36:44,980 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 14:36:45,095 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:36:45,101 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:36:45,103 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:36:45,107 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:36:45,109 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 14:36:45,113 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:36:45,114 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 14:36:45,120 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 14:36:45,123 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 15:59:34,929 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 15:59:35,731 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 15:59:35,907 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 15:59:35,968 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 15:59:36,084 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 15:59:36,142 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 15:59:36,265 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 15:59:36,265 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 15:59:36,432 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 15:59:36,730 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 16:07:13,862 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 16:07:14,655 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:14,818 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:14,877 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:14,992 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:15,044 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 16:07:15,157 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:15,157 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 16:07:15,329 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:15,403 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 16:07:31,635 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 16:07:32,419 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:32,593 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:32,649 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:32,767 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:32,829 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 16:07:32,942 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:32,942 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 16:07:33,109 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:07:33,177 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 16:08:00,981 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 16:08:01,804 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:01,964 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:02,018 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:02,137 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:02,200 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 16:08:02,317 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:02,317 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 16:08:02,490 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:02,565 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 16:08:40,756 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 16:08:41,532 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:41,699 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:41,750 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:41,870 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:41,930 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 16:08:42,042 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:42,043 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 16:08:42,201 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:08:42,276 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 16:23:44,035 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 16:23:44,995 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:23:45,158 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:23:45,231 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:23:45,343 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:23:45,395 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 16:23:45,500 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:23:45,500 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 16:23:45,648 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:23:45,719 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 16:44:34,934 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 16:44:35,723 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:44:35,888 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:44:35,938 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:44:36,170 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:44:36,229 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 16:44:36,330 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:44:36,330 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 16:44:36,485 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 16:44:36,549 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-14 18:22:59,319 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-14 18:22:59,418 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 18:22:59,423 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 18:22:59,425 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 18:22:59,429 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 18:22:59,431 - root - INFO - Delete operation: deleted 1 documents
+2024-11-14 18:22:59,435 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 18:22:59,435 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-14 18:22:59,440 - root - INFO - Data inserted with acknowledgment: True
+2024-11-14 18:22:59,442 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:30:20,386 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:30:20,474 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,479 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,480 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,483 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,483 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:30:20,487 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,489 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:30:20,492 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,494 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:30:20,497 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,499 - root - INFO - Delete operation: deleted 0 documents
+2024-11-16 17:30:20,503 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,505 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,509 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,511 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:30:20,514 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,514 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-16 17:30:20,520 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,520 - root - INFO - Read operation with criteria: {'name': 'Non Existent Animal'}
+2024-11-16 17:30:20,525 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,526 - root - INFO - Read operation with criteria: {'name': 'test animal'}
+2024-11-16 17:30:20,532 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,534 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:30:20,538 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:30:20,540 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-16 17:32:10,570 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:32:10,664 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,669 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,671 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,675 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,675 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:32:10,679 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,684 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,689 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,693 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,695 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,699 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,704 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,709 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,713 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,717 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:32:10,721 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,278 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:35:06,371 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,376 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,377 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,380 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,380 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:35:06,384 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,389 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,393 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,397 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,399 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,403 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,408 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,412 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,415 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,420 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:35:06,424 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,255 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:37:06,365 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,370 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,371 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,375 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,375 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:37:06,378 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,380 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:37:06,383 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,385 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:37:06,389 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,390 - root - INFO - Delete operation: deleted 0 documents
+2024-11-16 17:37:06,395 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,396 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,400 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,402 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:37:06,406 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,406 - root - INFO - Read operation with criteria: {'name': 'Test Animal'}
+2024-11-16 17:37:06,412 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,412 - root - INFO - Read operation with criteria: {'name': 'Non Existent Animal'}
+2024-11-16 17:37:06,418 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,418 - root - INFO - Read operation with criteria: {'name': 'test animal'}
+2024-11-16 17:37:06,424 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,426 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:37:06,431 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:37:06,433 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-16 17:39:22,190 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:39:22,331 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,337 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,340 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,344 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,344 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:39:22,349 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,354 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,360 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,365 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,368 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,372 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,378 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,382 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,387 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,392 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:22,397 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,384 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:39:52,479 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,483 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,485 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,489 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,489 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:39:52,492 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,496 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,500 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,505 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,507 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,511 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,515 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,519 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,524 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,529 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:39:52,534 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,302 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:42:14,391 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,395 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,397 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,400 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,400 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:42:14,403 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,405 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:42:14,408 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,411 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:42:14,414 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,416 - root - INFO - Delete operation: deleted 0 documents
+2024-11-16 17:42:14,420 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,422 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,426 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,428 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:42:14,432 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,433 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Test Animal$', '$options': 'i'}}
+2024-11-16 17:42:14,441 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,441 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Non Existent Animal$', '$options': 'i'}}
+2024-11-16 17:42:14,446 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,446 - root - INFO - Read operation with criteria: {'name': {'$regex': '^test animal$', '$options': 'i'}}
+2024-11-16 17:42:14,452 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,454 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:42:14,459 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:14,460 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-16 17:42:24,780 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-16 17:42:24,873 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,878 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,880 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,883 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,883 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-16 17:42:24,887 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,888 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:42:24,892 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,894 - root - INFO - Delete operation: deleted 1 documents
+2024-11-16 17:42:24,897 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,900 - root - INFO - Delete operation: deleted 0 documents
+2024-11-16 17:42:24,903 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,905 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,908 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,911 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:42:24,914 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,914 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Test Animal$', '$options': 'i'}}
+2024-11-16 17:42:24,921 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,921 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Non Existent Animal$', '$options': 'i'}}
+2024-11-16 17:42:24,927 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,927 - root - INFO - Read operation with criteria: {'name': {'$regex': '^test animal$', '$options': 'i'}}
+2024-11-16 17:42:24,933 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,935 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-16 17:42:24,939 - root - INFO - Data inserted with acknowledgment: True
+2024-11-16 17:42:24,941 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-17 15:36:29,716 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-17 15:36:29,841 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,851 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,854 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,861 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,861 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-17 15:36:29,869 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,872 - root - INFO - Delete operation: deleted 1 documents
+2024-11-17 15:36:29,880 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,883 - root - INFO - Delete operation: deleted 1 documents
+2024-11-17 15:36:29,890 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,893 - root - INFO - Delete operation: deleted 0 documents
+2024-11-17 15:36:29,900 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,903 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,911 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,916 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-17 15:36:29,924 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,925 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Test Animal$', '$options': 'i'}}
+2024-11-17 15:36:29,939 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,940 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Non Existent Animal$', '$options': 'i'}}
+2024-11-17 15:36:29,951 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,952 - root - INFO - Read operation with criteria: {'name': {'$regex': '^test animal$', '$options': 'i'}}
+2024-11-17 15:36:29,961 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,965 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-17 15:36:29,972 - root - INFO - Data inserted with acknowledgment: True
+2024-11-17 15:36:29,976 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-18 18:38:23,511 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-18 18:38:23,613 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,626 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,630 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,637 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,637 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-18 18:38:23,644 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,649 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 18:38:23,655 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,658 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 18:38:23,665 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,668 - root - INFO - Delete operation: deleted 0 documents
+2024-11-18 18:38:23,674 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,677 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,685 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,689 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 18:38:23,696 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,702 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Test Animal$', '$options': 'i'}}
+2024-11-18 18:38:23,708 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,713 - root - INFO - Read operation with criteria: {'name': {'$regex': '^Non Existent Animal$', '$options': 'i'}}
+2024-11-18 18:38:23,719 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,723 - root - INFO - Read operation with criteria: {'name': {'$regex': '^test animal$', '$options': 'i'}}
+2024-11-18 18:38:23,730 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,734 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 18:38:23,741 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 18:38:23,744 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-18 22:45:49,573 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-18 22:45:49,602 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:45:49,661 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,661 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,666 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,667 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,668 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,668 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,672 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,672 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,672 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-18 22:45:49,676 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,676 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,678 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 22:45:49,678 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,682 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,682 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,682 - root - ERROR - Error occurred during delete operation: Delete parameters cannot be empty
+2024-11-18 22:45:49,687 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,687 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,689 - root - INFO - Delete operation: deleted 0 documents
+2024-11-18 22:45:49,689 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,693 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,694 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,695 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,696 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,700 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,700 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,703 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:45:49,703 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,707 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,707 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,712 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,712 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,719 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,719 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,725 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,725 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,728 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:45:49,728 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,732 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:45:49,732 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:45:49,734 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-18 22:45:49,734 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,339 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-18 22:56:00,377 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:56:00,447 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,447 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,452 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,452 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,454 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,454 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,458 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,458 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,458 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-18 22:56:00,462 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,462 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,464 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 22:56:00,464 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,468 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,468 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,468 - root - ERROR - Error occurred during delete operation: Delete parameters cannot be empty
+2024-11-18 22:56:00,472 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,472 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,474 - root - INFO - Delete operation: deleted 0 documents
+2024-11-18 22:56:00,475 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,479 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,479 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,481 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,481 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,485 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,486 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,487 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:56:00,488 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,492 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,492 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,498 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,499 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,504 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,504 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,511 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,512 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,514 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:56:00,514 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,518 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:56:00,518 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:56:00,520 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-18 22:56:00,520 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,720 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-18 22:57:17,752 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:57:17,838 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,838 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,848 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,848 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,852 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,852 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,859 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,859 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,859 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-18 22:57:17,866 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,867 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,870 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 22:57:17,871 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,878 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,878 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,881 - root - INFO - Delete operation: deleted 0 documents
+2024-11-18 22:57:17,881 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,888 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,889 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,893 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,893 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,900 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,900 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,905 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:57:17,905 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,912 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,912 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,922 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,923 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,934 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,934 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,938 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:57:17,938 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,946 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:57:17,946 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:57:17,950 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-18 22:57:17,950 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,633 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-18 22:59:32,681 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:59:32,748 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,749 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,754 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,754 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,756 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,756 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,759 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,760 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,760 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-18 22:59:32,763 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,763 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,765 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 22:59:32,765 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,768 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,768 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,770 - root - INFO - Delete operation: deleted 0 documents
+2024-11-18 22:59:32,770 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,774 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,774 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,776 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,776 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,780 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,780 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,782 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:59:32,782 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,786 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,786 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,791 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,792 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,797 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,797 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,798 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-18 22:59:32,798 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,802 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 22:59:32,802 - root - INFO - Cache cleared for the read method.
+2024-11-18 22:59:32,803 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-18 22:59:32,803 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,568 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-19 00:33:33,597 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 00:33:33,669 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,670 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,681 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,682 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,685 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,685 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,696 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,697 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,697 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-19 00:33:33,706 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,706 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,712 - root - INFO - Delete operation: deleted 1 documents
+2024-11-19 00:33:33,713 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,720 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,720 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,722 - root - INFO - Delete operation: deleted 0 documents
+2024-11-19 00:33:33,722 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,727 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,727 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,730 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,730 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,735 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,736 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,738 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-19 00:33:33,738 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,744 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,745 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,753 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,753 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,761 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,761 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,764 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-19 00:33:33,764 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,769 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:33:33,769 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:33:33,773 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-19 00:33:33,773 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,675 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-19 00:39:16,729 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 00:39:16,820 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,821 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,834 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,835 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,841 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,841 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,860 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,861 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,861 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-19 00:39:16,879 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,879 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,886 - root - INFO - Delete operation: deleted 1 documents
+2024-11-19 00:39:16,887 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,904 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,905 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,912 - root - INFO - Delete operation: deleted 0 documents
+2024-11-19 00:39:16,913 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,935 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,936 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,946 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,946 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,955 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,955 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,959 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-19 00:39:16,960 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,966 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,966 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,977 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,977 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,987 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,987 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,990 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-19 00:39:16,990 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,996 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 00:39:16,996 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:39:16,999 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-19 00:39:16,999 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:18,972 - root - INFO - Connected to MongoDB collection: animals_test
+2024-11-19 22:04:19,005 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 22:04:19,083 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,084 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,095 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,095 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,099 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,099 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,106 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,106 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,106 - root - ERROR - Error occurred during creation: Nothing to save, data parameter is empty
+2024-11-19 22:04:19,113 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,113 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,118 - root - INFO - Delete operation: deleted 1 documents
+2024-11-19 22:04:19,118 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,125 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,126 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,129 - root - INFO - Delete operation: deleted 0 documents
+2024-11-19 22:04:19,129 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,137 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,137 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,139 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,140 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,147 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,148 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,153 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-19 22:04:19,154 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,161 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,161 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,172 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,173 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,184 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,184 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,188 - root - INFO - Update operation: matched 1 documents, modified 1 documents
+2024-11-19 22:04:19,188 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,198 - root - INFO - Data inserted with acknowledgment: True
+2024-11-19 22:04:19,198 - root - INFO - Cache cleared for the read method.
+2024-11-19 22:04:19,203 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-19 22:04:19,204 - root - INFO - Cache cleared for the read method.

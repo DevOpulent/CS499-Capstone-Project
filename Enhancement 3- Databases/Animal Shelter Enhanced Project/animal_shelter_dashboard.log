@@ -1,0 +1,686 @@
+2024-11-13 21:51:54,660 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 21:53:33,930 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 21:54:06,110 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 21:56:47,062 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 22:00:08,842 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-13 22:00:08,918 - root - INFO - Connected to MongoDB collection: animals
+2024-11-13 22:00:08,918 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:10,250 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:19,667 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:28,553 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:00:43,171 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:01:00,387 - root - INFO - Read operation with criteria: {}
+2024-11-13 22:01:18,546 - root - INFO - Read operation with criteria: {}
+2024-11-14 00:36:01,241 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:15,730 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 13:24:15,855 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 13:24:15,855 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:17,286 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:24,598 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:24:51,085 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:25:57,113 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:03,868 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:07,981 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:12,459 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:20,185 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:23,812 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:30,122 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:34,898 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:34,989 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 13:26:40,367 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:26:50,697 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:26:55,911 - root - INFO - Read operation with criteria: {}
+2024-11-14 13:26:56,193 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:27:39,097 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:27:53,857 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:27:57,050 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:27:58,756 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:28:19,751 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:26,737 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:29,751 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:30,434 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:34,824 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:34,910 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:28:40,572 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:28:53,188 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:35:57,918 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:35:58,807 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:36:00,105 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:36:13,420 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:36:17,873 - root - INFO - Read operation with criteria: {}
+2024-11-14 14:48:53,185 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:50:44,029 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:50:50,100 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:50:50,868 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:50:51,789 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 14:50:55,873 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 14:50:56,700 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:51:21,119 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 14:51:25,710 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 15:04:02,680 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 16:48:03,729 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 16:48:04,030 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 16:48:04,030 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:48:07,178 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:48:16,121 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:48:52,450 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:03,536 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:14,786 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:30,804 - root - INFO - Read operation with criteria: {}
+2024-11-14 16:49:47,116 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 16:49:51,934 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 16:49:53,863 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 16:57:31,503 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:14:24,961 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:14:33,887 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:15:34,616 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 17:15:34,901 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 17:15:34,902 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:15:37,641 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:15:45,395 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:16:02,644 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:19:30,447 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:33,639 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 17:21:33,953 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 17:21:33,954 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:37,009 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:37,877 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:21:44,709 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:22:04,706 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:22:08,839 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:22:28,537 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:23:30,938 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:04,435 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 17:58:04,538 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 17:58:04,538 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:05,970 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:14,788 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:38,024 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:58:46,440 - root - INFO - Read operation with criteria: {}
+2024-11-14 17:59:03,205 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:00:01,783 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:08:40,498 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:13:03,826 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:35,788 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:44,386 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:57,436 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:15:57,574 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:16:34,751 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:18:10,932 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:18:19,945 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:21:35,037 - root - INFO - Read operation with criteria: {}
+2024-11-14 18:50:03,556 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:22,981 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:44,320 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:44,579 - root - INFO - Read operation with criteria: {}
+2024-11-14 19:00:53,571 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 19:00:55,861 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 19:00:57,318 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 19:01:00,813 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 19:01:01,962 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:53:35,960 - root - INFO - Starting EJG's Animal Shelter Dashboard
+2024-11-14 23:53:36,037 - root - INFO - Connected to MongoDB collection: animals
+2024-11-14 23:53:36,038 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:53:37,474 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:53:46,052 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:54:11,056 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-14 23:54:12,551 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 23:54:13,859 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-14 23:54:15,120 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 23:54:49,179 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-14 23:54:53,438 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:55:07,400 - root - INFO - Read operation with criteria: {}
+2024-11-14 23:55:10,255 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:54:28,995 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 16:54:28,996 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:54:30,456 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:56:42,670 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 16:56:42,672 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:56:44,136 - root - INFO - Read operation with criteria: {}
+2024-11-16 16:56:51,727 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:08:09,198 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 17:08:09,198 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:08:10,492 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:08:17,384 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:09:09,333 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:17,173 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 17:15:17,173 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:18,487 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:27,614 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:15:38,762 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:16:12,359 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:16:12,704 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:22:37,993 - root - INFO - Connected to MongoDB collection: animals
+2024-11-16 17:22:37,994 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:22:39,331 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:22:46,994 - root - INFO - Read operation with criteria: {}
+2024-11-16 17:25:00,755 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:23,006 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 15:44:23,007 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:24,772 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:29,477 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 15:44:29,478 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:44:32,299 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:50:54,489 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 15:50:54,490 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:50:56,169 - root - INFO - Read operation with criteria: {}
+2024-11-17 15:51:05,296 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:31:03,072 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 17:31:03,073 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:32:03,756 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 17:32:03,757 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:32:05,134 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:32:11,170 - root - INFO - Read operation with criteria: {}
+2024-11-17 17:44:23,450 - root - INFO - Read operation with criteria: {}
+2024-11-17 18:05:47,590 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 18:05:47,590 - root - INFO - Read operation with criteria: {}
+2024-11-17 18:06:08,364 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 18:06:08,364 - root - INFO - Read operation with criteria: {}
+2024-11-17 18:06:35,103 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 18:06:35,103 - root - INFO - Read operation with criteria: {}
+2024-11-17 18:07:11,635 - root - INFO - Connected to MongoDB collection: animals
+2024-11-17 18:07:11,635 - root - INFO - Read operation with criteria: {}
+2024-11-17 18:07:13,221 - root - INFO - Read operation with criteria: {}
+2024-11-17 18:07:21,213 - root - INFO - Read operation with criteria: {}
+2024-11-18 17:53:44,454 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 17:59:30,080 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:01:39,749 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:01:39,750 - root - INFO - Read operation with criteria: {}
+2024-11-18 18:09:25,238 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:21:51,208 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:31:09,860 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:34:37,792 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:36:59,444 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:36:59,600 - root - INFO - Read operation with no criteria
+2024-11-18 18:43:45,017 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:43:45,175 - root - INFO - Read operation with no criteria
+2024-11-18 18:46:57,990 - root - INFO - Read operation with criteria: {'breed': {'$regex': '^Labrador Retriever Mix$', '$options': 'i'}}
+2024-11-18 18:48:55,798 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 18:48:55,945 - root - INFO - Read operation with no criteria
+2024-11-18 18:49:19,661 - root - INFO - Read operation with criteria: {'breed': {'$regex': '^Labrador Retriever Mix$', '$options': 'i'}}
+2024-11-18 18:50:23,204 - root - INFO - Update operation: matched 608 documents, modified 608 documents
+2024-11-18 18:50:23,268 - root - INFO - Read operation with criteria: {'breed': {'$regex': '^Labrador Retriever Super Mix$', '$options': 'i'}}
+2024-11-18 18:51:59,424 - root - INFO - Read operation with criteria: {'breed': {'$regex': '^German Shepherd$', '$options': 'i'}}
+2024-11-18 18:51:59,443 - root - INFO - Delete operation: deleted 26 documents
+2024-11-18 18:51:59,487 - root - INFO - Read operation with criteria: {'breed': {'$regex': '^German Shepherd$', '$options': 'i'}}
+2024-11-18 18:57:40,206 - root - INFO - Read operation with no criteria
+2024-11-18 19:11:57,862 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 19:11:58,019 - root - INFO - Read operation with no criteria
+2024-11-18 19:15:56,198 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 19:16:30,497 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 19:18:40,719 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 19:18:40,849 - root - INFO - Read operation with no criteria
+2024-11-18 19:19:11,575 - root - INFO - Read operation with criteria: {'breed.$in': ('Doberman Pinscher', 'Bloodhound', 'Rottweiler')}
+2024-11-18 19:19:16,159 - root - INFO - Read operation with criteria: {'breed.$in': ('German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky')}
+2024-11-18 19:19:20,206 - root - INFO - Read operation with criteria: {'breed.$in': ('Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland')}
+2024-11-18 19:26:39,849 - root - INFO - Update operation: matched 608 documents, modified 608 documents
+2024-11-18 19:26:54,973 - root - INFO - Update operation: matched 0 documents, modified 0 documents
+2024-11-18 19:26:55,095 - root - INFO - Read operation with criteria: {'breed': {'$regex': '^Labrador Retriever Mix$', '$options': 'i'}}
+2024-11-18 19:27:02,109 - root - INFO - Read operation with no criteria
+2024-11-18 19:27:07,754 - root - INFO - Read operation with criteria: {'breed.$in': ('Doberman Pinscher', 'Bloodhound', 'Rottweiler')}
+2024-11-18 19:27:10,491 - root - INFO - Read operation with criteria: {'breed.$in': ('German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky')}
+2024-11-18 19:27:14,383 - root - INFO - Read operation with criteria: {'breed.$in': ('Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland')}
+2024-11-18 19:28:03,087 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 19:28:03,218 - root - INFO - Read operation with no criteria
+2024-11-18 19:28:17,833 - root - INFO - Read operation with criteria: {'breed.$in': ('Doberman Pinscher', 'Bloodhound', 'Rottweiler')}
+2024-11-18 19:31:06,246 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 19:31:06,246 - root - INFO - Read operation with criteria: {}
+2024-11-18 19:31:07,754 - root - INFO - Read operation with criteria: {}
+2024-11-18 19:31:15,773 - root - INFO - Read operation with criteria: {}
+2024-11-18 19:31:23,885 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 19:31:25,679 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 19:31:26,703 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 19:31:37,756 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 19:33:02,732 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 19:33:02,732 - root - INFO - Read operation with criteria: {}
+2024-11-18 19:33:04,061 - root - INFO - Read operation with criteria: {}
+2024-11-18 19:33:10,105 - root - INFO - Read operation with criteria: {}
+2024-11-18 19:33:17,004 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 19:33:21,057 - root - INFO - Read operation with criteria: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 19:33:23,085 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 19:33:24,764 - root - INFO - Read operation with criteria: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 19:33:29,405 - root - INFO - Read operation with criteria: {}
+2024-11-18 19:33:35,309 - root - INFO - Read operation with criteria: {}
+2024-11-18 21:21:56,830 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 21:21:56,895 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 21:27:36,717 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 21:27:36,762 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 21:27:36,763 - root - INFO - Read operation with criteria: {}
+2024-11-18 21:27:54,516 - root - ERROR - Error occurred during read operation: unhashable type: 'dict'
+2024-11-18 21:34:27,475 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 21:34:27,535 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 21:46:13,261 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 21:46:13,307 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 21:48:25,554 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 21:48:25,602 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 21:48:36,774 - root - ERROR - Error occurred during read operation: unhashable type: 'dict'
+2024-11-18 21:55:28,011 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 21:55:28,061 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:06:19,204 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 22:06:19,255 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:06:19,255 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:06:20,916 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:06:20,953 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:06:39,281 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:17:18,194 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 22:17:18,264 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:17:18,264 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:17:19,971 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:17:33,428 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:17:37,270 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:17:41,641 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 22:17:44,601 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 22:17:46,667 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 22:17:50,600 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 22:17:56,974 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 22:18:04,788 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 22:18:05,156 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:18:10,662 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:18:16,994 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:18:21,868 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:19:14,170 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:58:04,780 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 22:58:04,828 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 22:58:04,828 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:58:06,651 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:58:06,811 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:58:17,686 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:58:25,835 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:58:28,329 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:58:35,773 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 22:58:38,105 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 22:58:39,122 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 22:58:42,378 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 22:58:43,913 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 22:58:57,826 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:59:07,023 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:59:11,883 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:59:14,528 - root - INFO - Bypassing cache for query: {}
+2024-11-18 22:59:15,534 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:00:00,213 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:01:55,218 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:05:56,010 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:05:57,298 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:05:57,298 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:05:57,314 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:05:57,314 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:05:57,330 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:05:57,330 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:06:15,494 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:06:23,208 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:06:28,411 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:06:32,744 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:06:32,870 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:07:47,136 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:07:47,136 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:07:47,188 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:07:47,203 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 23:07:47,203 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:07:47,280 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:07:56,178 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:09:56,086 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:11:27,030 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:11:27,030 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:11:27,034 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:11:27,034 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:11:27,039 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:11:27,039 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:11:56,644 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:13:56,665 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:13:58,426 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:13:58,426 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:13:58,474 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:13:58,563 - root - INFO - Delete operation: deleted 1 documents
+2024-11-18 23:13:58,564 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:13:58,698 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:15:57,257 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:16:39,513 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:16:39,513 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:16:39,516 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:16:39,516 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:16:39,518 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:16:39,518 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:16:52,038 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:16:52,038 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:16:52,040 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:16:52,040 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:16:52,042 - root - INFO - Data inserted with acknowledgment: True
+2024-11-18 23:16:52,042 - root - INFO - Cache cleared for the read method.
+2024-11-18 23:17:05,157 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:17:12,959 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 23:17:14,694 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 23:17:15,861 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 23:17:40,729 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 23:17:41,987 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:17:43,034 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:17:43,488 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:17:43,696 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:17:43,850 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:17:57,887 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:18:21,699 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:19:11,746 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:19:11,812 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:19:11,813 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:19:12,403 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:19:12,959 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:19:23,227 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:21:08,532 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:25:10,259 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:25:20,347 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:25:24,131 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:25:24,881 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:25:25,019 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:27:35,322 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:27:35,360 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:27:35,360 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:27:35,858 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:27:36,531 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:31:40,149 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:31:40,225 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:31:40,227 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:31:41,680 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:33:26,835 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:33:33,204 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:33:33,278 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:33:33,279 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:33:34,128 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:45:11,231 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:45:11,306 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:45:11,307 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:45:12,525 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:46:04,060 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:46:04,087 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:46:04,088 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:46:04,809 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:46:25,893 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:46:31,361 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 23:46:32,373 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 23:46:33,097 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:48:04,086 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:51:34,947 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:52:48,907 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:52:48,935 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:52:48,935 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:52:49,716 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:57:41,080 - root - INFO - Connected to MongoDB collection: animals
+2024-11-18 23:57:41,134 - root - INFO - Hash map for breeds has been populated.
+2024-11-18 23:57:41,134 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:57:42,666 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:57:51,320 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:58:42,095 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-18 23:58:45,138 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-18 23:58:46,786 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-18 23:58:49,801 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:58:56,884 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:59:00,806 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:59:04,494 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:59:09,027 - root - INFO - Bypassing cache for query: {}
+2024-11-18 23:59:09,384 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:03:10,178 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:03:13,065 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:03:17,223 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:09:27,194 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:16:33,978 - root - INFO - Cache cleared for the read method.
+2024-11-19 00:16:33,979 - root - INFO - Bypassing cache for query: {'breed': 'American Bulldog'}
+2024-11-19 00:27:00,432 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:27:08,334 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:27:14,536 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:27:14,906 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:31:55,143 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:32:54,465 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:36:29,686 - root - INFO - Connected to MongoDB collection: animals
+2024-11-19 00:36:29,751 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 00:36:29,751 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:36:31,083 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:36:36,864 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:36:56,010 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:39:31,798 - root - INFO - Connected to MongoDB collection: animals
+2024-11-19 00:39:31,897 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 00:39:31,898 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:39:33,333 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:39:39,701 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:39:45,628 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-19 00:39:47,340 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-19 00:39:49,025 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-19 00:39:50,630 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-19 00:39:52,351 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:39:57,737 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:40:01,412 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:40:05,189 - root - INFO - Bypassing cache for query: {}
+2024-11-19 00:40:05,452 - root - INFO - Bypassing cache for query: {}
+2024-11-19 21:55:44,174 - root - INFO - Connected to MongoDB collection: animals
+2024-11-19 21:55:44,242 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 21:55:44,242 - root - INFO - Bypassing cache for query: {}
+2024-11-19 21:55:45,680 - root - INFO - Bypassing cache for query: {}
+2024-11-19 21:55:53,550 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:00:06,330 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:00:14,156 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:00:18,739 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:00:24,340 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:00:27,324 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-19 22:00:30,205 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-19 22:00:31,533 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-19 22:00:33,636 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:01:56,382 - root - INFO - Connected to MongoDB collection: animals
+2024-11-19 22:01:56,463 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 22:01:56,464 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:01:57,882 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:02:05,852 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:03:28,615 - root - INFO - Connected to MongoDB collection: animals
+2024-11-19 22:03:28,838 - root - INFO - Hash map for breeds has been populated.
+2024-11-19 22:03:28,845 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:03:30,317 - root - INFO - Bypassing cache for query: {}
+2024-11-19 22:03:53,325 - root - INFO - Bypassing cache for query: {}
+2024-11-21 23:35:12,167 - root - INFO - Connected to MongoDB collection: animals
+2024-11-21 23:35:12,230 - root - INFO - Hash map for breeds has been populated.
+2024-11-21 23:35:12,230 - root - INFO - Bypassing cache for query: {}
+2024-11-21 23:35:13,770 - root - INFO - Bypassing cache for query: {}
+2024-11-21 23:35:23,925 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:04:30,663 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:09:03,086 - root - INFO - Connected to MongoDB collection: animals
+2024-11-22 00:09:03,155 - root - INFO - Hash map for breeds has been populated.
+2024-11-22 00:09:03,155 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:09:04,686 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:09:11,876 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:18:30,574 - root - INFO - Connected to MongoDB collection: animals
+2024-11-22 00:18:30,633 - root - INFO - Hash map for breeds has been populated.
+2024-11-22 00:18:30,634 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:18:32,162 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:18:42,443 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:20:29,426 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:25:54,999 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:26:24,641 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:26:49,885 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:27:25,695 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:39:48,690 - root - INFO - Connected to MongoDB collection: animals
+2024-11-22 00:39:48,925 - root - INFO - Hash map for breeds has been populated.
+2024-11-22 00:39:48,929 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:39:50,287 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:39:56,853 - root - INFO - Bypassing cache for query: {}
+2024-11-22 00:40:00,754 - root - INFO - Bypassing cache for query: {}
+2024-11-27 20:07:57,996 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 20:07:58,123 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 20:07:58,123 - root - INFO - Bypassing cache for query: {}
+2024-11-27 20:08:00,003 - root - INFO - Bypassing cache for query: {}
+2024-11-27 20:08:10,490 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:26:21,135 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:51:01,281 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:52:06,163 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:52:12,341 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 21:52:12,434 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 21:52:12,439 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:52:14,139 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:52:25,750 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:52:36,935 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:52:41,732 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:52:45,760 - root - INFO - Bypassing cache for query: {}
+2024-11-27 21:57:51,245 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 21:57:51,490 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 21:57:51,496 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 21:57:51,496 - root - INFO - Bypassing cache for query: {}
+2024-11-27 22:04:40,733 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 22:04:40,848 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 22:04:40,858 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 22:04:40,858 - root - INFO - Bypassing cache for query: {}
+2024-11-27 22:15:17,699 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 22:15:17,768 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 22:15:17,769 - root - INFO - Bypassing cache for query: {}
+2024-11-27 22:15:18,975 - root - INFO - Bypassing cache for query: {}
+2024-11-27 22:15:20,036 - root - INFO - Bypassing cache for query: {}
+2024-11-27 22:15:29,635 - root - INFO - Bypassing cache for query: {}
+2024-11-27 22:33:39,805 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 22:33:39,872 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 22:33:39,876 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 22:33:39,876 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:14:41,643 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:14:41,741 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:14:41,742 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:14:43,015 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:14:43,953 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:14:56,976 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:16:39,327 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:16:59,496 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Doberman Pinscher', 'Bloodhound', 'Rottweiler']}}
+2024-11-27 23:17:01,092 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['German Shepherd', 'Alaskan Malamute', 'Border Collie', 'Siberian Husky']}}
+2024-11-27 23:17:02,338 - root - INFO - Bypassing cache for query: {'breed': {'$in': ['Labrador Retriever Mix', 'Chesapeake Bay Retriever', 'Newfoundland']}}
+2024-11-27 23:19:44,990 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:31:52,858 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:31:52,905 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:31:52,908 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:31:52,908 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:33:20,797 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:33:20,844 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:33:20,846 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:33:20,847 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:34:12,803 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:34:12,850 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:34:12,853 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:34:12,853 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:37:44,756 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:37:44,802 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:37:44,804 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:37:44,805 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:40:15,431 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:40:15,539 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:40:15,543 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:40:15,543 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:42:33,157 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:42:33,205 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:42:33,209 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:42:33,209 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:49:15,409 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:49:15,506 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:49:15,511 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:49:15,512 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:53:10,471 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:53:10,516 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:53:10,518 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:53:10,519 - root - INFO - Bypassing cache for query: {}
+2024-11-27 23:58:07,882 - root - INFO - Connected to MongoDB collection: animals
+2024-11-27 23:58:07,931 - root - INFO - Hash map for breeds has been populated.
+2024-11-27 23:58:07,933 - root - INFO - Connected to MongoDB 'users' collection.
+2024-11-27 23:58:07,933 - root - INFO - Bypassing cache for query: {}
+2024-11-28 00:00:34,974 - root - INFO - Connected to MongoDB collection: animals
+2024-11-28 00:00:35,106 - root - INFO - Hash map for breeds has been populated.
+2024-11-28 00:00:35,107 - root - INFO - Bypassing cache for query: {}
+2024-11-28 00:00:36,654 - root - INFO - Bypassing cache for query: {}
+2024-11-28 00:02:32,241 - root - INFO - Bypassing cache for query: {}
+2024-11-28 00:22:48,288 - root - INFO - Connected to MongoDB collection: animals
+2024-11-28 00:22:48,335 - root - INFO - Hash map for breeds has been populated.
+2024-11-28 00:22:48,336 - root - INFO - Bypassing cache for query: {}
+2024-11-28 00:22:50,194 - root - INFO - Bypassing cache for query: {}
+2024-11-28 00:22:50,823 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:39:48,329 - root - INFO - Connected to MongoDB collection: animals
+2024-11-29 21:39:48,373 - root - INFO - Hash map for breeds has been populated.
+2024-11-29 21:39:48,373 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:39:50,281 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:39:50,459 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:39:55,235 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:40:11,852 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 21:40:11,852 - root - INFO - User user2 logged in successfully.
+2024-11-29 21:41:24,200 - root - INFO - User logged out.
+2024-11-29 21:41:45,216 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:42:09,418 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-29 21:42:09,420 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:42:09,421 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:42:09,421 - root - INFO - User user1 logged in successfully.
+2024-11-29 21:52:07,563 - root - INFO - Connected to MongoDB collection: animals
+2024-11-29 21:52:07,631 - root - INFO - Hash map for breeds has been populated.
+2024-11-29 21:52:07,631 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:52:09,574 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:52:09,835 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:52:13,821 - root - INFO - Bypassing cache for query: {}
+2024-11-29 21:52:39,150 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-29 21:52:39,152 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:52:39,152 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:52:39,153 - user_management - INFO - User user1 logged in successfully.
+2024-11-29 21:52:41,851 - user_management - INFO - User logged out.
+2024-11-29 21:53:16,095 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 21:53:16,095 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 21:53:18,696 - user_management - INFO - User logged out.
+2024-11-29 21:53:27,971 - user_management - INFO - Password authentication successful for user 'user3'.
+2024-11-29 21:53:27,972 - user_management - INFO - User user3 logged in successfully.
+2024-11-29 21:53:29,312 - user_management - INFO - User logged out.
+2024-11-29 21:54:05,977 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:16:27,366 - root - INFO - Connected to MongoDB collection: animals
+2024-11-29 22:16:27,414 - root - INFO - Hash map for breeds has been populated.
+2024-11-29 22:16:27,415 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:16:29,198 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:16:29,409 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:16:33,980 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:16:51,551 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:16:51,551 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:16:56,603 - user_management - INFO - User logged out.
+2024-11-29 22:17:08,146 - user_management - WARNING - Authentication failed for username 'user3'.
+2024-11-29 22:17:08,147 - user_management - WARNING - Failed login attempt for user user3: Invalid username or password.
+2024-11-29 22:17:10,118 - user_management - WARNING - Authentication failed for username 'user3'.
+2024-11-29 22:17:10,118 - user_management - WARNING - Failed login attempt for user user3: Invalid username or password.
+2024-11-29 22:17:18,512 - user_management - INFO - Password authentication successful for user 'user3'.
+2024-11-29 22:17:18,512 - user_management - INFO - User user3 logged in successfully.
+2024-11-29 22:18:24,571 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:23:45,517 - root - INFO - Connected to MongoDB collection: animals
+2024-11-29 22:23:45,582 - root - INFO - Hash map for breeds has been populated.
+2024-11-29 22:23:45,582 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:23:47,446 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:23:47,651 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:23:53,174 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:24:07,775 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:24:07,775 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:24:41,669 - root - INFO - Connected to MongoDB collection: animals
+2024-11-29 22:24:41,735 - root - INFO - Hash map for breeds has been populated.
+2024-11-29 22:24:41,736 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:24:43,494 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:24:44,105 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:24:47,993 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:25:03,729 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:25:03,730 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:25:35,915 - root - INFO - Connected to MongoDB collection: animals
+2024-11-29 22:25:35,963 - root - INFO - Hash map for breeds has been populated.
+2024-11-29 22:25:35,964 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:25:37,880 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:25:38,153 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:25:42,437 - root - INFO - Bypassing cache for query: {}
+2024-11-29 22:25:58,187 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:25:58,187 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:26:07,223 - user_management - INFO - User logged out.
+2024-11-29 22:27:33,323 - root - INFO - Bypassing cache for query: {}
+2024-11-29 23:11:38,971 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 23:11:38,971 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 23:11:53,233 - user_management - INFO - User logged out.
+2024-11-30 02:59:26,865 - root - INFO - Connected to MongoDB collection: animals
+2024-11-30 02:59:26,920 - root - INFO - Hash map for breeds has been populated.
+2024-11-30 02:59:26,920 - root - INFO - Bypassing cache for query: {}
+2024-11-30 02:59:28,996 - root - INFO - Bypassing cache for query: {}
+2024-11-30 02:59:29,318 - root - INFO - Bypassing cache for query: {}
+2024-11-30 02:59:35,889 - root - INFO - Bypassing cache for query: {}
+2024-11-30 03:00:14,505 - root - INFO - Bypassing cache for query: {}
+2024-11-30 03:01:10,415 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-30 03:01:10,415 - user_management - WARNING - MFA required or invalid OTP for user 'user1'.
+2024-11-30 03:01:10,416 - user_management - WARNING - Failed login attempt for user user1: MFA required or invalid OTP.
+2024-11-30 03:01:41,251 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-30 03:01:41,254 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-30 03:01:41,255 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-30 03:01:41,255 - user_management - INFO - User user1 logged in successfully.
+2024-11-30 03:04:39,740 - user_management - INFO - User logged out.
+2024-11-30 03:04:43,376 - root - INFO - Bypassing cache for query: {}
+2024-11-30 03:04:58,678 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-30 03:04:58,679 - user_management - INFO - User user2 logged in successfully.

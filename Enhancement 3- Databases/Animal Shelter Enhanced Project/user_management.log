@@ -1,0 +1,51 @@
+2024-11-29 21:39:48,321 - user_management - INFO - Connected to MongoDB 'users' collection.
+2024-11-29 21:40:11,852 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 21:42:09,418 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-29 21:42:09,420 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:42:09,421 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:52:07,553 - user_management - INFO - Connected to MongoDB 'users' collection.
+2024-11-29 21:52:39,150 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-29 21:52:39,152 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:52:39,152 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-29 21:52:39,153 - user_management - INFO - User user1 logged in successfully.
+2024-11-29 21:52:41,851 - user_management - INFO - User logged out.
+2024-11-29 21:53:16,095 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 21:53:16,095 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 21:53:18,696 - user_management - INFO - User logged out.
+2024-11-29 21:53:27,971 - user_management - INFO - Password authentication successful for user 'user3'.
+2024-11-29 21:53:27,972 - user_management - INFO - User user3 logged in successfully.
+2024-11-29 21:53:29,312 - user_management - INFO - User logged out.
+2024-11-29 22:16:27,357 - user_management - INFO - Connected to MongoDB 'users' collection.
+2024-11-29 22:16:51,551 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:16:51,551 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:16:56,603 - user_management - INFO - User logged out.
+2024-11-29 22:17:08,146 - user_management - WARNING - Authentication failed for username 'user3'.
+2024-11-29 22:17:08,147 - user_management - WARNING - Failed login attempt for user user3: Invalid username or password.
+2024-11-29 22:17:10,118 - user_management - WARNING - Authentication failed for username 'user3'.
+2024-11-29 22:17:10,118 - user_management - WARNING - Failed login attempt for user user3: Invalid username or password.
+2024-11-29 22:17:18,512 - user_management - INFO - Password authentication successful for user 'user3'.
+2024-11-29 22:17:18,512 - user_management - INFO - User user3 logged in successfully.
+2024-11-29 22:23:45,511 - user_management - INFO - Connected to MongoDB 'users' collection.
+2024-11-29 22:24:07,775 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:24:07,775 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:24:41,664 - user_management - INFO - Connected to MongoDB 'users' collection.
+2024-11-29 22:25:03,729 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:25:03,730 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:25:35,907 - user_management - INFO - Connected to MongoDB 'users' collection.
+2024-11-29 22:25:58,187 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 22:25:58,187 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 22:26:07,223 - user_management - INFO - User logged out.
+2024-11-29 23:11:38,971 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-29 23:11:38,971 - user_management - INFO - User user2 logged in successfully.
+2024-11-29 23:11:53,233 - user_management - INFO - User logged out.
+2024-11-30 02:59:26,859 - user_management - INFO - Connected to MongoDB 'users' collection.
+2024-11-30 03:01:10,415 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-30 03:01:10,415 - user_management - WARNING - MFA required or invalid OTP for user 'user1'.
+2024-11-30 03:01:10,416 - user_management - WARNING - Failed login attempt for user user1: MFA required or invalid OTP.
+2024-11-30 03:01:41,251 - user_management - INFO - Password authentication successful for user 'user1'.
+2024-11-30 03:01:41,254 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-30 03:01:41,255 - user_management - INFO - MFA verification successful for user 'user1'.
+2024-11-30 03:01:41,255 - user_management - INFO - User user1 logged in successfully.
+2024-11-30 03:04:39,740 - user_management - INFO - User logged out.
+2024-11-30 03:04:58,678 - user_management - INFO - Password authentication successful for user 'user2'.
+2024-11-30 03:04:58,679 - user_management - INFO - User user2 logged in successfully.
