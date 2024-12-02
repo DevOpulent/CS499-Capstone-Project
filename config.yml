@@ -1,0 +1,6 @@
+title: "Edward Garcia's CS499 Capstone ePortfolio"
+description: "A showcase of my CS499 capstone artifacts and enhancements."
+baseurl: "/CS499-ePortfolio"
+url: "https://devopulent.github.io"
+theme: minima
+markdown: kramdown
