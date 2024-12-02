@@ -28,7 +28,7 @@ Artifact: CS340 Animal Shelter Application
   </h1>
 </div>
 
-<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 1 files.</a>
+<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%202-%20Algorithms%20%26%20Data%20Structures)<a> to access the enhancement 2 files.</a>
 
 <div style="position: relative; text-align: center; color: white;">
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
@@ -36,7 +36,7 @@ Artifact: CS340 Animal Shelter Application
   </h1>
 </div>
 
-<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 1 files.</a>
+<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 3 files.</a>
 
 
 <!--
