@@ -36,7 +36,7 @@ Artifact: CS340 Animal Shelter Application
   </h1>
 </div>
 
-<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering)<a> to access the enhancement 3 files.</a>
+<a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%203-%20Databases)<a> to access the enhancement 3 files.</a>
 
 
 <!--
