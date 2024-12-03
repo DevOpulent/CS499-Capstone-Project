@@ -66,13 +66,30 @@ header h1 {
                0 0 15px #2563eb;
 }
 
-/* Section Titles */
+/* Section Titles - Common Styles */
 section h2 {
   font-size: 1.8rem;
   margin: 20px 0 10px;
-  color: #000080; 
   text-align: center;
 }
+
+/* Specific Section Title Colors */
+section#assessment h2 {
+  color: #000080; /* Navy blue */
+}
+
+section#video h2 {
+  color: #ff0000; /* Red */
+}
+
+section#artifacts h2:first-of-type {
+  color: #008000; /* Green */
+}
+
+section#artifacts h2:nth-of-type(2) {
+  color: #8b4513; /* Brown */
+}
+
 
 /* Video Section */
 section#video img {
