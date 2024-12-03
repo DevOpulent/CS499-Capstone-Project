@@ -53,10 +53,6 @@ nav ul li a:hover {
 header {
   text-align: center;
   background-color: #4b5563; /* Dark gray */
-  color: #6b21a8; /* Purple text */
-  text-shadow: 0 0 5px #fef08a, /* Light yellow glow */
-               0 0 10px #fef08a, 
-               0 0 15px #fef08a;
   padding: 20px;
   border-radius: 8px 8px 0 0; /* Rounded top corners */
 }
@@ -64,10 +60,10 @@ header {
 header h1 {
   margin: 0;
   font-size: 2.5rem;
-  color: #6b21a8; /* Purple text */
-  text-shadow: 0 0 5px #fef08a, /* Light yellow glow */
-               0 0 10px #fef08a, 
-               0 0 15px #fef08a;
+  color: #f97316; /* Orange text */
+  text-shadow: 0 0 5px #2563eb,   /* Blue glow */
+               0 0 10px #2563eb,
+               0 0 15px #2563eb;
 }
 
 /* Section Titles */
