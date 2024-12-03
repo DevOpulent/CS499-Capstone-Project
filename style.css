@@ -75,8 +75,6 @@ section h2 {
 section#video img {
   display: block; /* Make the video block-level to center it */
   margin: 0 auto; /* Center the video horizontally */
-  border: 2px solid #6b21a8; /* Optional: Add a border to highlight */
-  border-radius: 8px; /* Rounded corners */
 }
 
 /* Enhancements List */
@@ -85,11 +83,12 @@ section#artifacts ul {
   margin: 0 auto;
   list-style: none; /* Remove bullet points */
   max-width: 600px; /* Optional: Limit the width of the list */
-  text-align: center; /* Align the text left within the centered list */
+  text-align: center; 
 }
 
 section#artifacts ul li {
   margin: 15px 0; /* Add spacing between list items */
+  text-align: center;
 }
 
 /* Links */
