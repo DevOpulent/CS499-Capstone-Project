@@ -8,6 +8,7 @@ description: >
 baseurl: "/CS499-ePortfolio"
 url: "https://devopulent.github.io"
 permalink: pretty
+theme: bulma-clean-theme  # Added the theme here
 #favicon: /path/to/favicon.png
 #gh_sponsor: edwardgarcia
 #hide_share_buttons: true
