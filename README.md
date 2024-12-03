@@ -1,21 +1,20 @@
 # Welcome to Edward Garcia's CS499 Capstone ePortfolio
 
-[![Click Here to Visit My ePortfolio](https://img.shields.io/badge/ePortfolio-Visit-blue)](https://devopulent.github.io/CS499-ePortfolio/)
+[![Visit My ePortfolio](https://img.shields.io/badge/ePortfolio-Visit-blue)](https://devopulent.github.io/CS499-ePortfolio/)
 
 ## 📂 Repository Structure
 
 - `index.html`: The main file for my ePortfolio website.
-- `style.css`: The CSS file for styling the ePortfolio.
-- `binary-effect.js`: Adds a dynamic binary falling animation to the website.
-- `assets/`: Directory containing any additional assets like images or fonts.
+- `style.css`: The CSS file for styling of my ePortfolio.
+- `binary-effect.js`: Adds a dynamic binary for falling animation to my website.
 
-## 🌟 About the ePortfolio
+## 🌟 About my ePortfolio
 
 This ePortfolio demonstrates my proficiency in:
 
-- **Software Design & Engineering:** Implementing modular designs and user-friendly interfaces.
+- **Software Design & Engineering:** Implementing modular designs and enhanced interfaces.
 - **Data Structures & Algorithms:** Optimizing code for efficiency and performance.
-- **Database Management:** Designing secure and robust data storage solutions.
+- **Database Management:** Designing secure and robust data storage solutions with security additions.
 
 ### Artifact Highlights
 
@@ -24,9 +23,9 @@ This ePortfolio demonstrates my proficiency in:
 #### Enhancement Areas:
 - Improved software design and modularity.
 - Optimized data filtering with advanced algorithms.
-- Enhanced database security with encryption and role-based access control.
+- Enhanced database security with new collections, encryption and role-based access control.
 
-## 🚀 How to View the ePortfolio
+## 🚀 How to View my ePortfolio
 
 You can view the live version of the ePortfolio here: [Edward Garcia's CS499 Capstone ePortfolio](https://devopulent.github.io/CS499-ePortfolio/)
 
