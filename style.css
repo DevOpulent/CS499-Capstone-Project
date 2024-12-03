@@ -8,6 +8,31 @@ body {
   text-align: center;
 }
 
+/* Navigation Bar */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #6b21a8; /* Purple */
+  padding: 10px 0;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fff; /* White text */
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
 /* Header Section */
 header {
   background-color: #4b5563; /* Dark gray */
@@ -20,25 +45,58 @@ header h1 {
   font-size: 2.5rem;
 }
 
-header p {
-  margin: 5px 0 0;
-}
-
 /* Section Titles */
 section h2 {
   font-size: 1.8rem;
   margin: 20px 0 10px;
 }
 
-/* Links */
-a {
-  color: #6b21a8; /* Purple link color */
+/* Cards */
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.card a {
+  color: #6b21a8;
   text-decoration: none;
   font-weight: bold;
 }
 
-a:hover {
-  color: #4b5563; /* Dark gray on hover */
+.card a:hover {
+  text-decoration: underline;
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hover Animation for Links */
+a {
+  transition: color 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
 }
 
 /* Footer */
@@ -47,4 +105,14 @@ footer {
   background-color: #4b5563;
   color: #ffffff;
   padding: 10px 0;
+}
+
+footer .social-icons a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+footer .social-icons a:hover {
+  text-decoration: underline;
 }
