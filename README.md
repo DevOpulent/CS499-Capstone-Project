@@ -26,6 +26,7 @@ Artifact: CS340 Animal Shelter Application
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     Enhancement 2: Data Structures and Algorithms
   </h1>
+    <a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%202-%20Algorithms%20%26%20Data%20Structures)<a> to access the enhancement 2 files.</a>
 </div>
 
 <a>Click</a> [here](https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%202-%20Algorithms%20%26%20Data%20Structures)<a> to access the enhancement 2 files.</a>
