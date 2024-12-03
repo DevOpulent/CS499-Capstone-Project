@@ -85,7 +85,7 @@ section#artifacts ul {
   margin: 0 auto;
   list-style: none; /* Remove bullet points */
   max-width: 600px; /* Optional: Limit the width of the list */
-  text-align: left; /* Align the text left within the centered list */
+  text-align: center; /* Align the text left within the centered list */
 }
 
 section#artifacts ul li {
