@@ -4,12 +4,12 @@
 
 ## 📂 Repository Structure
 
-- `index.html`: The main file for my ePortfolio website.
-- `style.css`: The CSS file for styling of my ePortfolio.
-- `binary-effect.js`: Adds a dynamic binary for falling animation to my website.
-- - `Enhancement 1: Software Design and Engineering`: This folder contains my Enhancement 1 files.
-- - `Enhancement 2: Data Structures and Algorithms`: This folder contains my Enhancement 2 files.
-- - `Enhancement 3: Databases`: This folder contains my Enhancement 3 files.
+- `Enhancement 1: Software Design and Engineering`: This folder contains my Enhancement 1 files.
+- `Enhancement 2: Data Structures and Algorithms`: This folder contains my Enhancement 2 files.
+- `Enhancement 3: Databases`: This folder contains my Enhancement 3 files.
+- `index.html`: This is the main file for my ePortfolio website.
+- `style.css`: The CSS file is for styling of my ePortfolio.
+- `binary-effect.js`: This JavaScript file Adds a dynamic binary for falling animation to my website.
 
 ## 🌟 About my ePortfolio
 
