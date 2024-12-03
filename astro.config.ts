@@ -22,6 +22,8 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
   hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
 
 export default defineConfig({
+ site: 'https://devopulent.github.io/CS499-ePortfolio/',
+  
   output: 'static',
 
   integrations: [
