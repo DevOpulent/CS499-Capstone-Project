@@ -21,7 +21,7 @@ This ePortfolio demonstrates my proficiency in:
 
 ### Artifact Highlights
 
-- **CS340 Animal Shelter Application:** A CRUD-based project showcasing database-driven application development that allows users to navigate the database for 
+- **CS340 Animal Shelter Application:** My chosen artifact is an Animal Shelter app that I originally developed for my CS340 Client/Server Development course. I built and enhanced the application using tools such as Jupyter Dash, PowerShell, HTML, CSS, JavaScript, Python, and MongoDB. It combines into a Jupyter Notebook with the Dash framework to specialize in creating innovative solutions for animal rescue organizations. I revamped the Animal Shelter application to simplify the management of animal data, track rescue operations, and streamline the adoption processes for users. With an upgraded intuitive interface, users can easily search, filter, and analyze animal records while gaining valuable insights through visual dashboards and maps. The user is also able to login with their own encrpyted credentials and access the animal adoption database securely.
 
 #### Enhancement Areas:
 - Improved software design and modularity.
