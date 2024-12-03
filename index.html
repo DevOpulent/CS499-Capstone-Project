@@ -7,20 +7,28 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="#intro">Welcome</a></li>
+      <li><a href="#assessment">Professional Self-Assessment</a></li>
+      <li><a href="#video">Code Review Video</a></li>
+      <li><a href="#artifacts">Artifacts & Enhancements</a></li>
+    </ul>
+  </nav>
+
   <header>
-    <h1>Welcome to Edward Garcia's CS499 Capstone ePortfolio</h1>
-   
+    <h1 id="intro">Welcome to Edward Garcia's CS499 Capstone ePortfolio</h1>
   </header>
 
   <main>
-
     <!-- Professional Self-Assessment -->
-    <section>
+    <section id="assessment">
       <h2>Professional Self-Assessment</h2>
     </section>
 
     <!-- Code Review Video -->
-    <section>
+    <section id="video">
       <h2>📺 My Code Review Video</h2>
       <a href="https://youtu.be/aUsckxiYfn8" target="_blank">
         <img src="https://img.youtube.com/vi/aUsckxiYfn8/0.jpg" alt="Code Review Video" width="560">
@@ -28,27 +36,32 @@
     </section>
 
     <!-- Artifacts & Enhancements -->
-    <section>
+    <section id="artifacts">
       <h2>👨‍💻 Artifacts & Enhancements:</h2>
-      <ul>
-        <li>
+      <div class="cards">
+        <div class="card">
           <h3>Enhancement 1: Software Design & Engineering</h3>
           <a href="https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%201-%20Software%20Design%20%26%20Engineering">Click here to access Enhancement 1 files.</a>
-        </li>
-        <li>
+        </div>
+        <div class="card">
           <h3>Enhancement 2: Data Structures and Algorithms</h3>
           <a href="https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%202-%20Algorithms%20%26%20Data%20Structures">Click here to access Enhancement 2 files.</a>
-        </li>
-        <li>
+        </div>
+        <div class="card">
           <h3>Enhancement 3: Databases</h3>
           <a href="https://github.com/DevOpulent/CS499-ePortfolio/tree/main/Enhancement%203-%20Databases">Click here to access Enhancement 3 files.</a>
-        </li>
-      </ul>
+        </div>
+      </div>
     </section>
   </main>
 
+  <!-- Footer -->
   <footer>
     <p>&copy; 2024 Edward Garcia's CS499 Capstone ePortfolio</p>
+    <div class="social-icons">
+      <a href="https://github.com/DevOpulent" target="_blank">GitHub</a>
+      <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+    </div>
   </footer>
 </body>
 </html>
