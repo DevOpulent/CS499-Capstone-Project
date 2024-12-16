@@ -10,6 +10,8 @@
 - `index.html`: This is the main file for my ePortfolio website.
 - `style.css`: The CSS file is for styling of my ePortfolio.
 - `binary-effect.js`: This JavaScript file Adds a dynamic binary for falling animation to my website.
+- `images`: This folder contains my images for my index.html
+- `Narratives`: This folder contains Narratives for each enhancement. 
 
 ## 🌟 About my ePortfolio
 
