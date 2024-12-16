@@ -1,4 +1,3 @@
-/* General Styles */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -42,10 +41,10 @@ nav ul li a:hover {
   max-width: 900px;
   margin: 30px auto;
   padding: 20px;
-  background: #ffffff; /* White background */
+  background: #ffffff; 
   border: 8px solid #4b5563; /* Dark gray border */
   border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
   text-align: center; /* Center all content inside */
 }
 
@@ -93,7 +92,7 @@ section#artifacts h2:nth-of-type(2) {
 
 /* Video Section */
 section#video img {
-  display: block; /* Make the video block-level to center it */
+  display: block; 
   margin: 0 auto; /* Center the video horizontally */
 }
 
@@ -101,8 +100,8 @@ section#video img {
 section#artifacts ul {
   padding: 0;
   margin: 0 auto;
-  list-style: none; /* Remove bullet points */
-  max-width: 600px; /* Optional: Limit the width of the list */
+  list-style: none; 
+  max-width: 600px; 
   text-align: center; 
 }
 
@@ -141,6 +140,7 @@ footer {
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: -1; /* Position it behind all other content */
+  z-index: -1; 
   background: black; /* Background for the binary effect */
 }
+
