@@ -1,6 +1,6 @@
 # Welcome to Edward Garcia's CS499 Capstone ePortfolio
 
-[![Visit My ePortfolio](https://devopulent.github.io/ePortfolio/)
+[![Visit My ePortfolio]([https://devopulent.github.io/ePortfolio/](https://img.shields.io/badge/ePortfolio-Visit-blue)](https://devopulent.github.io/ePortfolio/))
 
 ## 📂 Repository Structure
 
