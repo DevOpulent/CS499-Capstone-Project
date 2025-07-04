@@ -32,7 +32,7 @@ This ePortfolio demonstrates my proficiency in:
 
 ## 🚀 How to View my ePortfolio
 
-You can view the live version of the ePortfolio here: [Edward Garcia's CS499 Capstone ePortfolio](https://devopulent.github.io/ePortfolio/)
+You can view the live version of the ePortfolio here: [Edward Garcia's ePortfolio](https://devopulent.github.io/ePortfolio/)
 
 ### To view locally:
 
