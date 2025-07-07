@@ -1,21 +1,21 @@
-# Welcome to Edward Garcia's ePortfolio
+# Welcome to Edward Garcia's Capstone Project
 
-[![Visit My ePortfolio](https://img.shields.io/badge/ePortfolio-Visit-blue)](https://devopulent.github.io/CS499-Capstone-Project/)
+[![Visit My Project's Porfolio](https://img.shields.io/badge/ePortfolio-Visit-blue)](https://devopulent.github.io/CS499-Capstone-Project/)
 
 ## 📂 Repository Structure
 
 - `Enhancement 1: Software Design and Engineering`: This folder contains my Enhancement 1 files.
 - `Enhancement 2: Data Structures and Algorithms`: This folder contains my Enhancement 2 files.
 - `Enhancement 3: Databases`: This folder contains my Enhancement 3 files.
-- `index.html`: This is the main file for my ePortfolio website.
-- `style.css`: The CSS file is for styling of my ePortfolio.
+- `index.html`: This is the main file for my project's website.
+- `style.css`: The CSS file is for styling of my capstone website.
 - `binary-effect.js`: This JavaScript file Adds a dynamic binary for falling animation to my website.
 - `images`: This folder contains my images for my index.html
 - `Narratives`: This folder contains Narratives for each enhancement. 
 
-## 🌟 About my ePortfolio
+## 🌟 About My Project
 
-This ePortfolio demonstrates my proficiency in:
+This Project demonstrates my proficiency in:
 
 - **Software Design & Engineering:** Implementing modular designs and enhanced interfaces.
 - **Data Structures & Algorithms:** Optimizing code for efficiency and performance.
@@ -30,15 +30,10 @@ This ePortfolio demonstrates my proficiency in:
 - Optimized data filtering with advanced algorithms.
 - Enhanced database security with new collections, encryption and role-based access control.
 
-## 🚀 How to View my ePortfolio
+## 🚀 How to View my project's portfolio
 
-You can view the live version of the ePortfolio here: [Edward Garcia's ePortfolio](https://devopulent.github.io/ePortfolio/)
+You can view the live version of my project's portfolio here: [Edward Garcia's Capstone Project](https://devopulent.github.io/CS499-Capstone-Project/)
 
-### To view locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DevOpulent/CS499-ePortfolio.git
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
