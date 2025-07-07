@@ -1,6 +1,6 @@
 # Welcome to Edward Garcia's Capstone Project
 
-[![Visit My Project's Porfolio](https://img.shields.io/badge/Project-Portfolio-Visit-blue)](https://devopulent.github.io/CS499-Capstone-Project/)
+[![Visit My Project's Porfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://devopulent.github.io/CS499-Capstone-Project/)
 
 ## 📂 Repository Structure
 
